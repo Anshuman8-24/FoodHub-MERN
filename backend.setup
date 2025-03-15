@@ -1,0 +1,7 @@
+MONGO_URI=your_mongodb_connection_string_here
+PORT=5000
+cd backend
+npm init -y
+npm install express mongoose cors dotenv
+touch .env  # Add MONGO_URI here
+npm start   # Runs backend at http://localhost:5000

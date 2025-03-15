@@ -1,0 +1,4 @@
+cd frontend
+npx create-react-app .
+npm install axios
+npm start  # Runs frontend at http://localhost:3000

@@ -1,0 +1,18 @@
+FoodHub/
+│── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── restaurantRoutes.js
+│   ├── models/
+│   │   ├── Restaurant.js
+│   ├── .env
+│── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── App.css
+│   │   ├── index.css
+│   ├── package.json
+│── package.json
